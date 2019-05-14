@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochoxahc.huntcountrywildlife.com/sitemap.xml
